@@ -1,1 +1,3 @@
 # analisis-arquitectura
+
+lo que más me pareció interesante, más allá de la escalabilidad, es la adaptación y toma de decisiones, tomando en cuenta el tiempo en el que grabó este video y lo asociado a lo localService ya que claro te permite levantar el servicio sin necesidad de lanzarlo directamente sin que sea la experiencia final, igual bastante terminología que aún cuesta entender pero teniendo una base está interesante
